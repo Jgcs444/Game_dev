@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Game Dev/MyFirstProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Game Dev/MyFirstProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/BN/4TCWZT2EKKIQXAVCIMAEG9.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8Z/L2UYS5PNK0C54ZN4LJQUEJ.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/I0/KN7AZDNWJDJXZQ9SGDQVBR.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PV/WAAJ9PRUDVDT64F98XGPJ8.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/L9/L6A6GHH4P4D23BN0BTZR63.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BN/TEQT63Q7IP9EIDAST9Q4UL.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/10/GUWINSBYSKTR3H0K2SUSZZ.uasset",
+				"C:/Game Dev/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/BS/ZWM12J86T4758RPZ1I2C3Z.uasset"
 			]
 		}
 	]
